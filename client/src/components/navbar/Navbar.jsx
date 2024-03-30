@@ -41,7 +41,7 @@ function Navbar() {
           <Link className="link" to="/">
             <span className="text">JobZy</span>
           </Link>
-          <span className="dot">.</span>
+          <span className="dot"></span>
         </div>
         <div className="links">
           <span>JobZy Business</span>
